@@ -12,11 +12,14 @@
 ## Reading tools
 
 - [Pocket](getpocket.com)
+- [Winds](https://getstream.io/winds/?ref=producthunt)
+- [Feedly](https://feedly.com/)
 
 ## Curated news
 
 - [Highscalability](http://highscalability.com)
 - [Hackernewsletter](http://www.hackernewsletter.com)
+- [Meshedsociety](http://meshedsociety.com/)
 
 ## Writing guide
 
